@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on 100 days coding with Python.
+- 🔭 I’m currently working on 100 days of Python.
 - 🌱 I’m currently learning advanced T-SQL programming.
 - 👯 I’m looking to collaborate on data engineering project.
 - 💬 Ask me about everything.
